@@ -15,7 +15,7 @@ body {
 /* Header Styles */
 
 header {
-    background: #570b37;
+    background: #bb6b1c;
     /* Updated header background color */
     color: #fff;
     padding: 1rem 0;
@@ -93,7 +93,7 @@ nav ul li a {
 footer {
     text-align: center;
     padding: 1rem 0;
-    background: #004d40;
+    background: #735a0e;
     /* Dark footer */
     color: #fff;
 }
