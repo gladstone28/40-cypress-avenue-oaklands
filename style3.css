@@ -87,6 +87,34 @@ nav ul li a {
     /* Darker shade on hover */
 }
 
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    /* Adjust the gap size as needed */
+    justify-content: center;
+}
+
+.room {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.room img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 8px;
+    /* Space between the image and its label */
+}
+
+.room p {
+    text-align: center;
+    margin: 0;
+    font-size: 16px;
+    /* Adjust label font size as needed */
+}
+
 
 /* Footer Styles */
 
